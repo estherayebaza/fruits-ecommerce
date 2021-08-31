@@ -1,0 +1,295 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "Orange Juice",
+            "price": 6700,
+            "image": "./banner.png"
+        },
+        {
+            "id": 2,
+            "title": "Red berries juice",
+            "price": 7500,
+            "image": "./bjuice.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Pomegranate Juice",
+            "price": 9000,
+            "image": "./cat1.png"
+        },
+        {
+            "id": 4,
+            "title": "Pineapple Juice",
+            "price": 7800,
+            "image": "./cat2.png"
+        },
+        
+        
+        {
+            "id": 5,
+            "title": "Guavas",
+            "price": 3000,
+            "image": "./Guavas.jpeg"
+
+        },
+        {
+            "id": 6,
+            "title": "Oranges",
+            "price": 4000,
+            "image": "./oranges.jpeg"
+
+        },
+        {
+            "id": 7,
+            "title": "Red paw paw",
+            "price": 2000,
+            "image": "./paw-paw-red.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Pomegranate",
+            "price": 3000,
+            "image": "./pamo.jpeg"
+        },
+        {
+            "id": 9,
+            "title": "Water Melon",
+            "price": 3800,
+            "image": "./melon.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Ovacado",
+            "price": 3000,
+            "image": "./ovacado.jpeg"
+        },
+        {
+            "id": 11,
+            "title": "JackFruit",
+            "price": 4000,
+            "image": "./jackfruits.jpeg"
+        },
+        {
+            "id": 12,
+            "title": "Green coconut",
+            "price": 5000,
+            "image": "./ggreen-coconut.jpg"
+        },
+        {
+            "id": 13,
+            "title": "",
+            "price": 2000,
+            "image": "./jackfruits.jpeg"
+        },
+        {
+            "id": 14,
+            "title": "Pomegranate",
+            "price": 6000,
+            "image": "./Pomegranate.png"
+        },
+        {
+            "id": 15,
+            "title": "Red grapes",
+            "price": 5000,
+            "image": "./redgrapes.jpeg"
+        },
+        {
+            "id": 16,
+            "title": "Star Fruit",
+            "price": 6500,
+            "image": "./star-fruit.jpg"
+        },
+        {
+            "id": 17,
+            "title": " Rea paw paw",
+            "price": 3000,
+            "image": "./popo.jpeg"
+        },
+        {
+            "id": 18,
+            "title": "Berries",
+            "price": 6500,
+            "image": "./sberries.jpg"
+        },
+        {
+            "id": 19,
+            "title": "White apples",
+            "price": 4500,
+            "image": "./white-apples.jpeg"
+        },
+        {
+            "id": 20,
+            "title": "Yellow pawpaw",
+            "price": 3500,
+            "image": "./yellow-pawpaw.jpeg"
+        },
+        {
+            "id": 21,
+            "title": "Green grapes",
+            "price": 4500,
+            "image": "./Green-Grapes.jpg"
+        },{
+            "id": 22,
+            "title": "Green lemon",
+            "price": 3900,
+            "image": "./Green-lemon.jpeg"
+        },{
+            "id": 23,
+            "title": "Yellow banana",
+            "price": 4000,
+            "image": "./yellow-banana.jpg"
+        },
+        {
+            "id": 24,
+            "title": "Dates",
+            "price": 3000,
+            "image": "./Dates.jpg"
+        },
+        {
+            "id": 25,
+            "title": "Imported Tangerine",
+            "price": 5000,
+            "image": "./Imported-Tangerine.png"
+        },
+        {
+            "id": 26,
+            "title": "Goose",
+            "price": 3200,
+            "image": "./goose.jpeg"
+        },
+        {
+            "id": 27,
+            "title": "Butternut",
+            "price": 6500,
+            "image": "./Butternut.jpeg"
+        },{
+            "id": 28,
+            "title": "Beet Root",
+            "price": 6200,
+            "image": "./beetroot.jpg"
+        },{
+            "id": 29,
+            "title": "Blue Berries",
+            "price": 5300,
+            "image": "./Blue-berries.jpg"
+        },
+        {
+            "id": 30,
+            "title": "Custard apples",
+            "price": 2900,
+            "image": "./Custard-apples.jpg"
+        },
+        {
+            "id": 31,
+            "title": "Apple Mangoes",
+            "price": 6900,
+            "image": "./Apple-mangoes.jpeg"
+        },
+        {
+            "id": 32,
+            "title": "Imported Oranges",
+            "price": 6400,
+            "image": "./Imported-oranges.jpeg"
+        },
+        {
+            "id": 33,
+            "title": "Horned melon",
+            "price": 4050,
+            "image": "./Horned-melon.jpeg"
+        },
+        {
+            "id": 34,
+            "title": "Custard apples",
+            "price": 3400,
+            "image": "./Custard-apples.jpg"
+        },
+        {
+            "id": 35,
+            "title": "Lime",
+            "price": 2900,
+            "image": "./Lime.jpeg"
+        },
+        {
+            "id": 36,
+            "title": "Green Apples",
+            "price": 3800,
+            "image": "./Green-apples.jpeg"
+        },
+        {
+            "id": 37,
+            "title": "Tree tomatoes",
+            "price": 2600,
+            "image": "./Tree-tomatoes.jpeg"
+        },
+        {
+            "id": 38,
+            "title": "Winter Melon",
+            "price": 2000,
+            "image": "./winter-melon.jpeg"
+        },
+        {
+            "id": 39,
+            "title": "Yellow passion",
+            "price": 3000,
+            "image": "./Yellow-passion.jpeg"
+        },
+        {
+            "id": 40,
+            "title": "Kiwi",
+            "price": 2000,
+            "image": "./kiwi.jpg"
+        },
+        {
+            "id": 41,
+            "title": "Baby(sweet) banana",
+            "price": 1500,
+            "image": "./Baby(sweet)-bananas.jpeg"
+        },
+        {
+            "id": 42,
+            "title": "Green grapes",
+            "price": 2500,
+            "image": "./Green-Grapes.jpg"
+        },
+
+        {
+            "id": 43,
+            "title": "Tomatoes",
+            "price": 2500,
+            "image": "./tomatoes.jpeg"
+        },
+        {
+            "id": 44,
+            "title": "Green Papers",
+            "price": 2500,
+            "image": "greenpps.jpg"
+        },
+        {
+            "id": 1,
+            "title": "Pineaples",
+            "price": 5000,
+            "image": "./pineaples.jpeg"
+        },
+        {
+            "id": 2,
+            "title": "Apples",
+            "price": 6000,
+            "image": "./apples.png"
+        },
+        {
+            "id": 3,
+            "title": "Mangoes",
+            "price": 3000,
+            "image": "./mongoes.png"
+        },
+        {
+            "id": 4,
+            "title": "Passion Fruits",
+            "price": 4500,
+            "image": "./pasion.jpeg"
+        }
+       
+    ]
+}

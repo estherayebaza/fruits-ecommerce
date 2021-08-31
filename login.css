@@ -1,0 +1,200 @@
+:root {
+    --black: #222;
+    --white: #fff;
+    --default: #0751a5;
+    --orange: #85ee93;
+    --yellow: #07d162;
+    --grey: #2fb63a;
+    --grey2: #f9fafd;
+    --warn: #e71247;
+  }
+  
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+/* Navigation */
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.5rem 0;
+    line-height: 1rem;
+    background-color: var(--black);
+    background-color: black;
+  }
+  
+  .hamburger {
+    display: none;
+  }
+  
+  .nav__center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .nav__logo {
+    font-size: 2rem;
+    color: var(--white);
+  }
+  
+  .nav__logo span {
+    color: var(--grey);
+  }
+  
+  .nav__list {
+    display: flex;
+    align-items: center;
+  }
+  
+  .login {
+    display: inline-block;
+    font-size: 1.7rem;
+    margin-right: 2rem;
+    padding: 1.3rem 1.5rem;
+    color: var(--black);
+    background-color: var(--yellow);
+  }
+  
+  .login:focus {
+    outline: none;
+  }
+  
+  .cart__icon {
+    position: relative;
+    cursor: pointer;
+  }
+  
+  .cart__icon h2 {
+    font-weight: 700;
+    color: var( --grey);
+  }
+  
+  .cart__icon span {
+    position: absolute;
+    top: -1rem;
+    right: -2.5rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var( --grey);
+    color: var(--white);
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+    border-radius: 50%;
+  }
+  
+.hero{
+    height: 100%;
+    width: 100%;
+    background-image: url(images/grsbackg.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.form-box{
+    background-color: #999;
+    width: 380px;
+    height: 480px;
+    position: relative;
+    margin: 6% auto;
+    background: rgba(255, 255, 255, 0.562);
+    padding: 5px;
+    overflow: hidden;
+    
+}
+.button-box{
+    width: 220px;
+    margin: 35px auto;
+    position: relative;
+    box-shadow: 0 0 20px 9px #739776;
+    border-radius: 30px;
+}
+.toggle-btn{
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+    
+}
+#btn{
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    background: linear-gradient(to right, #2fb63a,#bebcb7);
+    transition: .5s;
+    border-radius: 30px;
+    box-shadow: 0 0 20px 9px #1db9511f;
+}
+
+  .input-group{
+      margin-top: 10px;
+      top: 130px;
+      position: absolute;
+      width: 280px;
+      transition: .5s;
+      /* padding-top: 10px; */
+      padding-bottom: 5px;
+      
+  }
+  .input-field{
+      width: 100%;
+      padding: 10px 0;
+      margin: 5px 0;
+      border-left: 0;
+      border-top: 0;
+      border-right: 0;
+      border-bottom: 1px solid #999;
+      outline: none;
+      background: transparent;
+      font-weight: 600;
+  }
+  .submit-btn{
+      width: 85%;
+      padding: 10px 30px;
+      cursor: pointer;
+      display: block;
+      margin: auto;
+      border: 0;
+      outline: none;
+      border-radius: 30px;
+      background: linear-gradient(to right, #2fb63a,#bebcb7);;
+
+
+  }
+
+.check-box{
+      margin: 30px 10px 30px 0;
+      box-shadow: 0 0 20px 9px #1db9511f;
+
+  }
+  .agree{
+      color: #777;
+      font-size: 12px;
+      bottom: 68px;
+      position: absolute;
+      
+  }
+  #login{
+      left: 50px;
+  }
+  #register{
+      left: 450px;
+  }
+  h5{
+      font-size: 16px;
+      padding-bottom: 5px;
+      text-align: center;
+      color: #2fb63a;
+  }

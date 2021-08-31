@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Login</title>
+</head>
+<body>
+    <div class="hero">
+        <nav class="nav">
+            <div class="nav__center container">
+            <div class="nav__logo">
+                <h1>FRESHO<span>P</span></h1>
+            </div>
+        
+            <ul class="nav__list">
+                <a href="http://127.0.0.1:5500/index.html" class="login">Home</a>
+                <!-- <a href="products" class="login">Shop</a> -->
+                <a href="http://127.0.0.1:5500/login.html" class="login">Login</a>
+                <div class="cart__icon">
+                <h2>cart</h2>
+                <span class="item__total">0</span>
+                </div>
+            </ul>
+        
+            <div class="hamburger">
+                <svg>
+                <use xlink:href="./images/sprite.svg#icon-menu"></use>
+                </svg>
+            </div>
+            </div>
+        </nav>
+
+   
+       <div class="form-box">
+           <div class="button-box">
+           <div id="btn"></div>
+           <button type="button" class="toggle-btn" onclick="login()">Log In</button>
+           <button type="button" class="toggle-btn" onclick="register()">Register</button>
+           </div>
+           <!-- <h5>Continue with</h5> -->
+           <!-- <div class=" social-icons">
+           <a href="#" class="faa fa-facebook"></a>
+            <a href="#" class="faa fa-twitter"></a>
+            <a href="#" class="faa fa-google"></a>
+           </div> -->
+
+           <form id="login" class="input-group">
+               <input type="text" class="input-field" placeholder="User Name" required>
+               <input type="text" class="input-field" placeholder="Enter password" required><br>
+               <input type="checkbox" class="check-box"><span>Remember password</span>
+               <button type="submit" class="submit-btn">Log In</button>
+
+
+           </form>
+           <form id="register" class="input-group">
+            <input type="text" class="input-field" placeholder="User Name" required>
+            <input type="email" class="input-field" placeholder="Email " required>
+
+            <input type="text" class="input-field" placeholder="Enter password" required><br>
+            <input type="checkbox" class="check-box"><span class="agree">I agree to the terms & conditions</span>
+            <button type="submit" class="submit-btn">Register</button>
+
+
+        </form>
+       </div>
+
+   </div>
+<script>
+    var x=document.getElementById("login")
+    var y=document.getElementById("register")
+    var z=document.getElementById("btn")
+
+    function register(){
+        x.style.left= "-400px";
+        y.style.left= "50px";
+        z.style.left= "110px";
+    }
+
+    function login(){
+        x.style.left= "50px";
+        y.style.left= "450px";
+        z.style.left= "0px";
+    }
+
+
+
+</script>
+</body>
+</html>
